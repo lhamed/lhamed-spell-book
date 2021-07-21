@@ -10,4 +10,4 @@
 -d : whole directories 
 
 
-참조 : [stash]()
+참조 : [stash](https://github.com/lhamed/lhamed-spell-book/blob/main/git/stash.md)
